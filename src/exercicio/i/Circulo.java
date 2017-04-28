@@ -1,4 +1,4 @@
-package exercicio.um;
+package exercicio.i;
 
 public class Circulo {
 	

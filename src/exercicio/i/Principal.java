@@ -1,4 +1,4 @@
-package exercicio.um;
+package exercicio.i;
 
 import com.senac.SimpleJava.Console;
 
